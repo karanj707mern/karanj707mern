@@ -1,11 +1,16 @@
 <!--<p align="center">
   <img src="./assets/banner.png" alt="Karan Patel Banner" width="100%" />
 </p>--->
-<h1 align="center">KARAN PATEL</h1>
-
-<p align="center">
-  <img src="https://demolab.com" alt="Typing Effect" />
-</p>
+<div align="center">
+  <h1>👋 Hi, I'm Karan Patel</h1>
+  <h3>Full-Stack Developer / Tech Enthusiast / Problem Solver</h3>
+  
+  <p align="center">
+    <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
+    <a href="mailto:karan.patel@example.com"><img src="https://shields.io" alt="Email"></a>
+    <a href="https://karanpatel.dev"><img src="https://shields.io" alt="Portfolio"></a>
+  </p>
+</div>
 
 
 <p align="center">
