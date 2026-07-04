@@ -2,14 +2,6 @@
   <img src="./assets/banner.png" alt="Karan Patel Banner" width="100%" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://shields.io" alt="MERN" />
-  <img src="https://shields.io" alt="NestJS" />
-  <img src="https://shields.io" alt="React Next" />
-</p>
-
 <br />
 
 <br/>
