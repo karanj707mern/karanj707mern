@@ -13,6 +13,8 @@
   <img src="https://shields.io" alt="React Next" />
 </p>
 
+<br />
+
 <br/>
 
 <hr>
@@ -134,18 +136,11 @@
 --->
 
 
-<p align="center">
-  
-### 📊 Vital Statistics
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanj707mern&theme=radical" alt="Streak" />
-</p>
+<h3 align="center">📊 Vital Statistics</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanj707mern&theme=radical" alt="GitHub profile contribution summary" />
-</p>    
-
-<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanj707mern&theme=radical" alt="Streak" /><br /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanj707mern&theme=radical" alt="GitHub profile contribution summary" /><br /><br />
   <img src="https://komarev.com/ghpvc/?username=karanj707mern&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
