@@ -94,15 +94,15 @@
 <div align="center">
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karanpatel-adiance&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karanj707mern&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=karanpatel-adiance&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=karanj707mern&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
 
 <p>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=karanpatel-adiance&theme=tokyo-night&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=karanj707mern&theme=tokyo-night&hide_border=true" />
 </p>
 
 <br>
@@ -110,7 +110,7 @@
 <br>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=karanpatel-adiance&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karanj707mern&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
 </p>
 
 </div>
@@ -125,15 +125,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/karanpatel-adiance/karanpatel-adiance/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/karanj707mern/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/karanpatel-adiance/karanpatel-adiance/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/karanj707mern/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/karanpatel-adiance/karanpatel-adiance/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/karanj707mern/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
@@ -194,6 +194,6 @@
 
 ### 🚀 Always Learning • Always Building • Always Improving
 
-<img src="https://komarev.com/ghpvc/?username=karanpatel-adiance&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=karanj707mern&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
