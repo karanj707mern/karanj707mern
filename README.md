@@ -174,7 +174,6 @@
 <div align="center">
   
 ## 📫 Connect With Me
-
 <br><br>
 
 <a href="https://linkedin.com/in/karan-patel94">
