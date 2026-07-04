@@ -174,18 +174,14 @@
 <div align="center">
   
 ## 📫 Connect With Me
-<br><br>
-
+<br>
 <a href="https://linkedin.com/in/karan-patel94">
 <img src="https://img.shields.io/badge/LinkedIn-Karan%20Patel-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <br><br>
-
 <a href="mailto:karanpatel@adiance.com">
 <img src="https://img.shields.io/badge/Work_Email-karanpatel%40adiance.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <br><br>
 
 <a href="mailto:karanj707@gmail.com">
