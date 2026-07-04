@@ -171,30 +171,12 @@
   </picture>
 </p>
 
-### 📊 Vital Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanj707mern&theme=radical" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanj707mern&theme=radical" alt="GitHub profile contribution summary" />
-</p>    
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karanj707mern&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
-</p>
 
 <hr>
 
-## 📫 Connect With Me
 
 <div align="center">
-
+## 📫 Connect With Me
 
 <br><br>
 
