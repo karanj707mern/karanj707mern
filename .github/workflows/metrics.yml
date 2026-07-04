@@ -15,20 +15,17 @@ jobs:
     steps:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
-
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: karanj707mern
           filename: github-metrics.svg
 
-          # Theme
           template: classic
           theme: radical
 
           config_timezone: Asia/Kolkata
 
-          # Base sections
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
 
           # Languages
           plugin_languages: yes
@@ -38,36 +35,25 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_ignored: html, css
 
-          # Contribution Calendar
+          # Isocalendar (contributions heatmap)
           plugin_isocalendar: yes
 
           # Stars
           plugin_stars: yes
 
-          # Follow-up
-          plugin_followup: yes
-
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_display: compact
-
-          # Code lines
+          # Lines of code
           plugin_lines: yes
 
           # Topics
           plugin_topics: yes
-          plugin_topics_limit: 12
+          plugin_topics_limit: 10
           plugin_topics_mode: icons
 
-          # Introduction
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+          # 🟢 Achievements (added)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
 
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes
-
-          # Repository traffic
-          plugin_traffic: yes
+          # 🟢 Activity graph (added)
+          plugin_activity: yes
+          plugin_activity_limit: 5
