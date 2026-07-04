@@ -1,6 +1,21 @@
-<p align="center">
+<!--<p align="center">
   <img src="./assets/banner.png" alt="Karan Patel Banner" width="100%" />
+</p>--->
+<h1 align="center">KARAN PATEL</h1>
+
+<p align="center">
+  <a href="https://git.io">
+    <img src="https://demolab.com" alt="Typing Effect" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://shields.io" alt="MERN" />
+  <img src="https://shields.io" alt="NestJS" />
+  <img src="https://shields.io" alt="React Next" />
+</p>
+
+<br/>
 
 <hr>
 
