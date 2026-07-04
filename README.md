@@ -149,17 +149,13 @@
   <img src="https://komarev.com/ghpvc/?username=karanj707mern&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
-<p align="center">
-  <img src="https://shields.io" alt="Code Time" />
-</p>
-
-
 <hr>
 
 <p align="center">
   
 ## 🐍 Contribution Snake
-  
+
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -175,6 +171,7 @@
     />
   </picture>
 </p>
+
 
 <hr>
 
