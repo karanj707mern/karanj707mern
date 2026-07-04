@@ -137,22 +137,14 @@
 
 <p align="center">
   
-## 🐍 Contribution Snake
-
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://githubusercontent.com"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://githubusercontent.com"
-    />
+      srcset="https://raw.githubusercontent.com/karanj707mern/karanj707mern/output/github-contribution-grid-snake-dark.svg">
     <img
-      alt="GitHub Contribution Snake Animation"
-      src="https://githubusercontent.com"
-    />
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/karanj707mern/karanj707mern/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
