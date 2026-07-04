@@ -22,28 +22,6 @@
 
 <div align="center">
 
-## 🚀 About Me
-
--   💻 Full Stack JavaScript Developer with a strong focus on backend development
-        
--   ⚙️ Building scalable backend services with Node.js, NestJS & Express.js
-    
--   🌐 Developing modern web applications using React.js & Next.js
-    
--   🛢️ Working with MongoDB, Mongoose, PostgreSQL & Prisma ORM
-    
--   📚 Exploring System Design, Microservices & Cloud Technologies
-    
--   🐳 Currently learning Docker, Redis, RabbitMQ, BullMQ & Pino
-    
--   🔐 Passionate about Authentication, Authorization, Security & Clean Enterprise  Architecture
-  
-</div>
-
-<hr>
-
-<div align="center">
-
 # 💻 Tech Stack
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp;
@@ -76,6 +54,28 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>&nbsp;
 
+</div>
+
+<hr>
+
+<div align="center">
+
+## 🚀 About Me
+
+-   💻 Full Stack JavaScript Developer with a strong focus on backend development
+        
+-   ⚙️ Building scalable backend services with Node.js, NestJS & Express.js
+    
+-   🌐 Developing modern web applications using React.js & Next.js
+    
+-   🛢️ Working with MongoDB, Mongoose, PostgreSQL & Prisma ORM
+    
+-   📚 Exploring System Design, Microservices & Cloud Technologies
+    
+-   🐳 Currently learning Docker, Redis, RabbitMQ, BullMQ & Pino
+    
+-   🔐 Passionate about Authentication, Authorization, Security & Clean Enterprise  Architecture
+  
 </div>
 
 <hr>
