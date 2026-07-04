@@ -145,9 +145,6 @@
 
 <div align="center">
 
-<a href="https://github.com/karanpatel-adiance">
-<img src="https://img.shields.io/badge/GitHub-karanpatel--adiance-181717?style=for-the-badge&logo=github"/>
-</a>
 
 <br><br>
 
