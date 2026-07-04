@@ -132,9 +132,12 @@
 
 <hr>
 --->
-### 📊 Vital Statistics
+
 
 <p align="center">
+  
+### 📊 Vital Statistics
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanj707mern&theme=radical" alt="Streak" />
 </p>
 
@@ -147,14 +150,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
+  <img src="https://shields.io" alt="Code Time" />
 </p>
+
 
 <hr>
 
-## 🐍 Contribution Snake
-
 <p align="center">
+  
+## 🐍 Contribution Snake
+  
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -171,11 +176,10 @@
   </picture>
 </p>
 
-
 <hr>
 
-
 <div align="center">
+  
 ## 📫 Connect With Me
 
 <br><br>
@@ -226,6 +230,5 @@
 
 ### 🚀 Always Learning • Always Building • Always Improving
 
-<img src="https://komarev.com/ghpvc/?username=karanj707mern&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
