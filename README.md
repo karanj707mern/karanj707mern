@@ -4,9 +4,7 @@
 <h1 align="center">KARAN PATEL</h1>
 
 <p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing Effect" />
-  </a>
+  <img src="https://demolab.com" alt="Typing Effect" />
 </p>
 
 <p align="center">
