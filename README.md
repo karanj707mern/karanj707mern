@@ -125,18 +125,19 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://githubusercontent.com"
+      srcset="https://github.com"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://githubusercontent.com"
+      srcset="https://github.com"
     />
     <img
       alt="GitHub Contribution Snake Animation"
-      src="https://githubusercontent.com"
+      src="https://github.com"
     />
   </picture>
 </p>
+
 
 
 
