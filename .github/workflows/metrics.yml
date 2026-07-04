@@ -21,13 +21,11 @@ jobs:
           filename: github-metrics.svg
 
           template: classic
-          theme: radical
 
           config_timezone: Asia/Kolkata
 
           base: header, activity, repositories, metadata
 
-          # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
@@ -35,25 +33,16 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_ignored: html, css
 
-          # Isocalendar (contributions heatmap)
           plugin_isocalendar: yes
-
-          # Stars
           plugin_stars: yes
-
-          # Lines of code
           plugin_lines: yes
-
-          # Topics
           plugin_topics: yes
           plugin_topics_limit: 10
           plugin_topics_mode: icons
 
-          # 🟢 Achievements (added)
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
 
-          # 🟢 Activity graph (added)
           plugin_activity: yes
           plugin_activity_limit: 5
