@@ -4,15 +4,23 @@
 </p> -->
 <h1 align="center">Karan Patel</h1>
 
+<h3 align="center">
+Backend Engineer • Full Stack JavaScript Developer • Building Scalable Applications
+</h3>
+
 <p align="center">
-Backend Engineer • System Design Enthusiast • Building Scalable Applications
+🚀 Mastering Backend Engineering &nbsp;•&nbsp;
+🏗️ System Design Enthusiast &nbsp;•&nbsp;
+⚡ Clean Architecture &nbsp;•&nbsp;
+☁️ Exploring Distributed Systems
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Open_to-Collaboration-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Location-India-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Learning-Microservices-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-NestJS-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mastering-Backend_Engineering-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-System_Design-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exploring-Microservices-orange?style=flat-square" />
 </p>
 
 <br />
