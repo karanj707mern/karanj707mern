@@ -138,7 +138,6 @@
   <img src="https://komarev.com/ghpvc/?username=karanj707mern&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Profile Views" />
 </p> -->
 
-<hr>
 
 <h2 align="center">📊 Vital Statistics</h2>
 
@@ -192,8 +191,6 @@
 </p>
 
 </div>
-
-<hr>
 
 <hr>
 
