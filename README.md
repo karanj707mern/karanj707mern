@@ -174,8 +174,8 @@
 <!-- Profile Summary -->
 <p>
   <img
-    width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanj707mern&theme=radical"
+    width="50%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karanj707mern&theme=radical"
     alt="Profile Summary"
   />
 </p>
