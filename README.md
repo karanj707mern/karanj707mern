@@ -185,7 +185,7 @@
 <!-- Visitor Count -->
 <p>
   <img
-    src="https://komarev.com/ghpvc/?username=karanj707mern&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=karanj707mern&label=PROFILE%20VIEWS&color=560591&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
