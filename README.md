@@ -128,7 +128,7 @@
 <h3 align="center">📊 Vital Statistics</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=karanj707mern&theme=radical" alt="GitHub Streak" />
+  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=karanj707mern)](https://github.com/pranesh-2005/github-readme-stats-fast)>
   <br><br>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanj707mern&theme=radical" alt="GitHub Profile Summary" />
