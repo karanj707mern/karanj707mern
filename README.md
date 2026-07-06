@@ -175,7 +175,7 @@
 <p>
   <img
     width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karanj707mern&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanj707mern&theme=radical"
     alt="Profile Summary"
   />
 </p>
@@ -195,7 +195,6 @@
 <hr>
 
 <p align="center">
-  <hr>
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
