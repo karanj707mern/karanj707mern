@@ -125,17 +125,75 @@
 --->
 
 
-<h3 align="center">📊 Vital Statistics</h3>
+<!-- <h3 align="center">📊 Vital Statistics</h3>
 
 <p align="center">
-  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=karanj707mern)](https://github.com/pranesh-2005/github-readme-stats-fast)>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=karanj707mern&show_icons=true&theme=radical" />
   <br><br>
-
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karanj707mern&layout=compact&theme=radical" />
+  <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanj707mern&theme=radical" alt="GitHub Profile Summary" />
   <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=karanj707mern&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Profile Views" />
+</p> -->
+
+<hr>
+
+<h2 align="center">📊 Vital Statistics</h2>
+
+<div align="center">
+
+<!-- GitHub Stats + Streak -->
+<p>
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api?username=karanj707mern&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=karanj707mern&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
+<br>
+
+<!-- Top Languages -->
+<p>
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karanj707mern&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
+
+<!-- Profile Summary -->
+<p>
+  <img
+    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanj707mern&theme=radical"
+    alt="Profile Summary"
+  />
+</p>
+
+<br>
+
+<!-- Visitor Count -->
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=karanj707mern&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
+</div>
+
+<hr>
 
 <hr>
 
