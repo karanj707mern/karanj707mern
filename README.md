@@ -1,5 +1,18 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/banner.png" alt="Karan Patel Banner" width="100%" />
+
+</p> -->
+<h1 align="center">Karan Patel</h1>
+
+<p align="center">
+Backend Engineer • System Design Enthusiast • Building Scalable Applications
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Open_to-Collaboration-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Location-India-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Learning-Microservices-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-NestJS-red?style=flat-square"/>
 </p>
 
 <br />
