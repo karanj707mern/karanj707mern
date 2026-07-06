@@ -5,7 +5,7 @@
 <h1 align="center">Karan Patel</h1>
 
 <h3 align="center">
-Backend Engineer • Full Stack JavaScript Developer • Building Scalable Applications
+• MERN Stack Dev • Nestjs Lover • Building Enterprise Grade Apps • Building Scalable Applications
 </h3>
 
 <p align="center">
