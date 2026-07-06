@@ -128,9 +128,13 @@
 <h3 align="center">📊 Vital Statistics</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=karanj707mern&theme=radical" alt="Streak"/><br /><br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanj707mern&theme=radical" alt="GitHub profile contribution summary" /><br /><br />
-  <img src="https://komarev.com/ghpvc/?username=karanj707mern&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://streak-stats.demolab.com?user=karanj707mern&theme=radical" alt="GitHub Streak" />
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanj707mern&theme=radical" alt="GitHub Profile Summary" />
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=karanj707mern&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Profile Views" />
 </p>
 
 <hr>
